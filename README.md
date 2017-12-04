@@ -1,5 +1,12 @@
-# markdown-viewer
+# Author
+![@jchurst](https://avatars0.githubusercontent.com/jchurst?&s=128)
 
-A Pen created at CodePen.io for Free Code Camp. You can find this one at http://codepen.io/jchurst/full/GqvjRN/.
+Created by JC Hurst
 
-FCC Project - Markdown Viewer using Sass and ReactJS
+[Github](https://github.com/jchurst) | [FreeCodeCamp](http://www.freecodecamp.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Blog/Site](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
+
+# FreeCodeCamp Front End Project - Markdown Viewer
+
+Markdown Viewer using Sass and ReactJS
+
+A Pen created at CodePen.io for Free Code Camp: http://codepen.io/jchurst/full/GqvjRN/.
